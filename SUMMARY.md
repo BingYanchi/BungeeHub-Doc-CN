@@ -14,7 +14,6 @@
 
 ## 基础
 
-* [Page 1](ji-chu/page-1.md)
 * [玩家命令](ji-chu/wan-jia-ming-ling.md)
 * [管理员命令](ji-chu/guan-li-yuan-ming-ling.md)
 * [权限](ji-chu/quan-xian.md)
