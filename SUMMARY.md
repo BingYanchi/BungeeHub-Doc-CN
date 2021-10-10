@@ -6,11 +6,11 @@
 
 * [分组](gong-neng/fen-zu.md)
 * [消息](gong-neng/xiao-xi.md)
+* [完整配置文件](gong-neng/wan-zheng-pei-zhi-wen-jian.md)
 
 ## 示例
 
 * [最简配置文件](shi-li/zui-jian-pei-zhi-wen-jian.md)
-* [完整配置文件](gong-neng/wan-zheng-pei-zhi-wen-jian.md)
 
 ## 基础
 
