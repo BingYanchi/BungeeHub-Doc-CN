@@ -6,6 +6,7 @@
 
 * [分组](gong-neng/fen-zu.md)
 * [消息](gong-neng/xiao-xi.md)
+* [完整配置文件](gong-neng/wan-zheng-pei-zhi-wen-jian.md)
 
 ## 示例
 
