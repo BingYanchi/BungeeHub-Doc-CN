@@ -2,12 +2,6 @@
 
 * [开始使用](README.md)
 
-## Group 1
+## 功能
 
-* [Page 1](group-1/page-1-1.md)
-* [Page 1](group-1/page-1-1.md)
-
-## Group 1
-
-* [Page 1](group-1-1/page-1-1.md)
-* [Page 1](group-1-1/page-1-1.md)
+* [分组](gong-neng/fen-zu.md)
