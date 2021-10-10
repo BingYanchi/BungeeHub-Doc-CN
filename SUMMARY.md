@@ -11,3 +11,7 @@
 ## 示例
 
 * [最简配置文件](shi-li/zui-jian-pei-zhi-wen-jian.md)
+
+## 基础
+
+* [玩家命令](ji-chu/wan-jia-ming-ling.md)
