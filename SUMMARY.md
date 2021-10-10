@@ -9,8 +9,8 @@
 
 ## 示例
 
-* [最简配置文件](shi-li/zui-jian-pei-zhi-wen-jian/README.md)
-  * [完整配置文件](shi-li/zui-jian-pei-zhi-wen-jian/wan-zheng-pei-zhi-wen-jian.md)
+* [完整配置文件](shi-li/wan-zheng-pei-zhi-wen-jian.md)
+* [最简配置文件](shi-li/zui-jian-pei-zhi-wen-jian.md)
 
 ## 基础
 
