@@ -5,3 +5,4 @@
 ## 功能
 
 * [分组](gong-neng/fen-zu.md)
+* [消息](gong-neng/xiao-xi.md)
