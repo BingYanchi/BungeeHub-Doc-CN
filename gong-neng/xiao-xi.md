@@ -11,7 +11,8 @@ description: 完善的语言文件，可以配置每一个语句。
 您可以将不想发送的句子设置为 `""`
 {% endhint %}
 
-```
+{% code title="messages.yml" %}
+```yaml
 # 插件运行
 Enabled: "Enabled successfully."
 Loaded: "Loaded successfully."
@@ -39,3 +40,4 @@ HelpHelp: "&a/bungeehub help &8- &7查看帮助"
 HelpCheck: "&a/bungeehub check &8- &7检查更新"
 HelpReload: "&a/bungeehub reload &8- &7重载配置文件"
 ```
+{% endcode %}
